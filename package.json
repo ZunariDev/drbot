@@ -1,0 +1,25 @@
+{
+  "name": "drbot",
+  "version": "1.0.0",
+  "description": "Bot for dr family",
+  "homepage": "https://github.com/ZunariDev/drbot#readme",
+  "bugs": {
+    "url": "https://github.com/ZunariDev/drbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZunariDev/drbot.git"
+  },
+  "license": "ISC",
+  "author": "ZunariDev",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {}
+}
